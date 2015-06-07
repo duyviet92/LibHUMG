@@ -1,0 +1,143 @@
+c:\users\hang bui\documents\visual studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe.config
+c:\users\hang bui\documents\visual studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csprojResolveAssemblyReference.cache
+c:\users\hang bui\documents\visual studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach_Add.resources
+c:\users\hang bui\documents\visual studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach_List.resources
+c:\users\hang bui\documents\visual studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Properties.Resources.resources
+c:\users\hang bui\documents\visual studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csproj.GenerateResource.Cache
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\LibHUMG.pdb
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.dll
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\DataLayer.dll
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.pdb
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\bin\Debug\DataLayer.pdb
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.exe
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.pdb
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNxb.resources
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTacGia.resources
+C:\Users\HANG BUI\Documents\Visual Studio 2013\Projects\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTheloai.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe.config
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.exe
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.pdb
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csprojResolveAssemblyReference.cache
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach_Add.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach_List.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDocGia.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNxb.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTacGia.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTheloai.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Properties.Resources.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csproj.GenerateResource.Cache
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\LibHUMG.pdb
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.dll
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\DataLayer.dll
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.pdb
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\bin\Debug\DataLayer.pdb
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNhanVien.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.DangNhap.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmCuonSach.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.SoMuonTra.resources
+C:\Users\HANG BUI\Desktop\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmMain.resources
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe.config
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.exe
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.pdb
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\LibHUMG.pdb
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.dll
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\DataLayer.dll
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.pdb
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\DataLayer.pdb
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csprojResolveAssemblyReference.cache
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.DangNhap.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDocGia.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmMain.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNhanVien.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNxb.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTacGia.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTheloai.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Properties.Resources.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.SoMuonTra.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csproj.GenerateResource.Cache
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach.resources
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.CuonSach.resources
+D:\DO AN\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTraSach.resources
+D:\DO AN\297\LibHUMG\LibHUMG\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe.config
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.exe
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.pdb
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\LibHUMG.pdb
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.dll
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\DataLayer.dll
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.pdb
+E:\Doan\LibHUMG\LibHUMG\bin\Debug\DataLayer.pdb
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csprojResolveAssemblyReference.cache
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.CuonSach.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.DangNhap.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDocGia.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmMain.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNhanVien.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNxb.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTacGia.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTheloai.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTraSach.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Properties.Resources.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.SoMuonTra.resources
+E:\Doan\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csproj.GenerateResource.Cache
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe.config
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.exe
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.pdb
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\LibHUMG.pdb
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.dll
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\DataLayer.dll
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.pdb
+E:\Doan\297\LibHUMG\LibHUMG\bin\Debug\DataLayer.pdb
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csprojResolveAssemblyReference.cache
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.CuonSach.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.DangNhap.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDocGia.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmMain.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNhanVien.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNxb.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTacGia.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTheloai.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTraSach.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Properties.Resources.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.SoMuonTra.resources
+E:\Doan\297\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csproj.GenerateResource.Cache
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe.config
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.exe
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csprojResolveAssemblyReference.cache
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.CuonSach.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.DangNhap.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDauSach.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmDocGia.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmMain.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNhanVien.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmNxb.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTacGia.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTheloai.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.FrmTraSach.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Properties.Resources.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.SoMuonTra.resources
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.csproj.GenerateResource.Cache
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\LibHUMG.exe
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\LibHUMG.pdb
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.dll
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\DataLayer.dll
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\BusinessLayer.pdb
+E:\Doan\299\LibHUMG\LibHUMG\bin\Debug\DataLayer.pdb
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.pdb
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\RdlCompile.cache
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\RdlCompile.compiled
+E:\Doan\299\LibHUMG\LibHUMG\obj\Debug\LibHUMG.Frmbaocaomuontra.resources
